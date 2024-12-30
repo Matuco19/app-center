@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <title>My App</title>
+    <meta name="version" content="1.0.0">
+    <meta name="author" content="Developer Name">
+    <meta name="maximized" content="false">
+    <meta name="window-frame" content="true">
+    <meta name="short-description" content="Your short (200 words only) description goes here">
+    <meta name="long-description" content="Your long description goes here">
+    <meta name="window-frame" content="true">
+    <meta name="start-on-startup" content="false">
+      </head>
+  <body>
+    
+    <h1>App here</h1>
+  </body>
+  </html>
